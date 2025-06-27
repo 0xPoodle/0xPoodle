@@ -37,4 +37,5 @@
 ## 📊 GitHub Stats  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPoodle&show_icons=true&theme=dark)](https://github.com/0xPoodle)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPoodle&layout=compact&theme=dark)](https://github.com/0xPoodle)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xPoodle&theme=dark)](https://github.com/0xPoodle)
