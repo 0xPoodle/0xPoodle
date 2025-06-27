@@ -30,12 +30,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPoodle&show_icons=true&theme=dark)](https://github.com/0xPoodle)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPoodle&layout=compact&theme=dark)](https://github.com/0xPoodle)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xPoodle&theme=dark)](https://github.com/0xPoodle)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
